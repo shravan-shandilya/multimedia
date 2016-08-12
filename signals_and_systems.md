@@ -18,7 +18,7 @@ Connecting multiple systems:
 * Parallel
 * Feedback
 
-Domains for analysis:
+Domains for analysis: [have a look at 27:45 for amazing example](http://ocw.mit.edu/resources/res-6-007-signals-and-systems-spring-2011/video-lectures/lecture-1-introduction/)
 * Time domain: x(t) (for continuous) and x[n] (for discrete)
 * Frequency domain: 
  * Tools: Fourier transforms,Laplace tranforms and Z-transforms
