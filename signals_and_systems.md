@@ -11,3 +11,11 @@ Systems:
 * types
   * linear, non linear
   * time invariant,time variant
+
+
+Connecting multiple systems:
+* Series
+* Parallel
+* Feedback
+
+[Link to MIT Class](http://ocw.mit.edu/resources/res-6-007-signals-and-systems-spring-2011/video-lectures/lecture-1-introduction/)
